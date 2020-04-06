@@ -1,0 +1,1 @@
+This repo contains all the challenges performed as part of the git-it series available [here](https://github.com/jlord/git-it-electron). 
